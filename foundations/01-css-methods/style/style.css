@@ -1,0 +1,12 @@
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    
+    /* Extras */
+    padding: 5px 15px 5px 15px;
+    width: fit-content;
+    font-family: 'Courier New', Courier, monospace;
+}
