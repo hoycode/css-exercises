@@ -15,4 +15,6 @@ The properties you need to add are:
 
 ### Self Check
 - Do the elements that contain the text "This should be styled" have the correct styles applied?
+Answer: Yes, I tried a combination of both types and selectors.
 - Do the elements that contain the text "This should be unstyled" have no styles applied?
+Answer: Yes, because they are outside of the "div" tag or class selector "container".
